@@ -2,6 +2,7 @@
 
 **offering work in: **
 - 💻 Python
+- 💻 Java (Spring Boot, Security..)
 - 💻 Javascript/Css
 - 💻 Angular
 - 💻 Webserver (Nginx, Apache)
