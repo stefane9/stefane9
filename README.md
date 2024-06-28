@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+**offering work in: **
+- 💻 Python
+- 💻 Javascript/Css
+- 💻 Angular
+- 💻 Webserver (Nginx, Apache)
+- 💻 Database
+- 💻 Wordpress
+- 💻 Automation
+- 💻 API's
+- 💻 Social Media Automation Services
+- 💻 Apple Wallet Cards for your Business, Events, etc.
+- 💻 iOS Development (Swift)
+- 💻 Apple Watch Development
+- 💻 Network Setup
+
+- 📫 How to reach me: stefane9811@gmail.com
 <!--
 **stefane9/stefane9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
